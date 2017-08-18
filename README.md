@@ -33,10 +33,3 @@ Eric Pelzer (ecstatic.coder@gmail.com).
 This project is licensed under the GNU General Public License version 3.
 
 See the [LICENSE.md](LICENSE.md) file for details.
-
-## Credits
-
-The landscape 3D models were made with [Blender](https://www.blender.org).
-
-Most sounds come from [freesound.org](http://freesound.org).
-
