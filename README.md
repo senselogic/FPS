@@ -22,7 +22,7 @@ Shows how to use the C++ API to :
 
 ## Version
 
-0.1
+1.0
 
 ## Author
 
